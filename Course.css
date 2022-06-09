@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(0, 12, 36);
+    color: rgb(255, 255, 255);
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    margin: 0;
+    padding: 200px;
+}
+h1{
+    font-size: 3em;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.btn{
+    text-align: center;
+    cursor: pointer;
+    margin: 2em;
+    padding: 1em;
+}
+.btn button{
+    background-color: rgb(238, 198, 146);
+    color: rgb(0, 17, 51);
+    border: none;
+    border-radius: 20px;
+    padding: 1em;
+    font-size: 1.5em;
+    cursor: pointer;
+}
+.btn button:hover{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 17, 51);
+}
+.course h2{
+    font-size: 2em;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: aqua;
+}
+h2 span{
+    font-size: 3em;
+}
